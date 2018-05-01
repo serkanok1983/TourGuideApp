@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Akcakoca</string>
+    <string name="fragment_views">Views</string>
+    <string name="fragment_eats">Eats</string>
+    <string name="fragment_restaurants">Places</string>
+    <string name="fragment_history">History</string>
+    <string name="eats_1_toast_message">Acuka - A delicious spicy red pepper paste for breakfast</string>
+    <string name="eats_2_toast_message">Haluj - A local type of Turkish ravioli</string>
+    <string name="eats_3_toast_message">Peynir - Local varieties of cheese</string>
+    <string name="eats_4_toast_message">Mancar - Rice filling with local black cabbage</string>
+    <string name="eats_5_toast_message">Melengüççeği - A local pastry</string>
+    <string name="history_1_toast_message">Late Ottoman - 19th century houses</string>
+    <string name="history_2_toast_message">Rome - Antiquity</string>
+    <string name="history_3_toast_message">Byzantium - Antiquity</string>
+    <string name="history_4_toast_message">Early Ottoman - The founder, Akça koca, commander of Sultan Orhan</string>
+    <string name="rest_3_toast_message">İskele Restaurant - Black Sea Cuisine</string>
+    <string name="rest_4_toast_message">Mustafa\'nın Yeri Balıkevi - Fish Restaurant</string>
+    <string name="rest_5_toast_message">Bülent\'in Yeri - Local Breakfast</string>
+    <string name="view_1_toast_message">Akçakoca - Fisher shelters</string>
+    <string name="view_2_toast_message">Akçakoca - Central park</string>
+    <string name="view_3_toast_message">Akçakoca - From Black Sea</string>
+    <string name="view_4_toast_message">Akçakoca - Boats</string>
+    <string name="view_5_toast_message">Akçakoca - Beach</string>
+    <string name="view_6_toast_message">Akçakoca - City center</string>
+    <string name="view_7_toast_message">Akçakoca - The Castle Beach</string>
+    <string name="view_8_toast_message">Akçakoca - Sunrise</string>
+    <string name="view_9_toast_message">Akçakoca - At night</string>
+    <string name="view_10_toast_message">Akçakoca - Cliff</string>
+    <string name="view_11_toast_message">Akçakoca - Black Sea Weather</string>
+</resources>
